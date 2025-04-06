@@ -80,14 +80,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
-        },
-        {
-            "label": "YOUTUBE",
-            "url": "/https://www.youtube.com/@Sushil.Dilyan?sub_confirmation=1",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
